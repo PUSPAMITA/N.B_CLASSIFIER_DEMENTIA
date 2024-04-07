@@ -22,6 +22,8 @@ necessary.
 on available features. Evaluate model performance using appropriate metrics and techniques.Comparison with a Logistic Regression Model.
 ● Correlation Analysis: Investigate correlations between dementia status and other variables to
 identify significant relationships.
+
+
 RESULTS:
 Accuracy: 0.99
 Precision: 1.0
